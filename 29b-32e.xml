@@ -18,7 +18,7 @@
     <address>lupy314@gmail.com</address>
     <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Drew%20Latimer</uri>
   </annotator>
-  <sentence id='1' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='1' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='μέγιστον' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='τῶν' lemma='' postag='' relation='nil' head=''/>
@@ -26,7 +26,7 @@
     <word id='5' form='ἐστι' lemma='' postag='' relation='nil' head=''/>
     <word id='6' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='2' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='2' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καίτοι' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='πῶς' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='οὐκ' lemma='' postag='' relation='nil' head=''/>
@@ -45,7 +45,7 @@
     <word id='16' form='οἶδεν' lemma='' postag='' relation='nil' head=''/>
     <word id='17' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='3' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='3' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -88,7 +88,7 @@
     <word id='40' form='εἰδέναι' lemma='' postag='' relation='nil' head=''/>
     <word id='41' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='4' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='4' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='τὸ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἀδικεῖν' lemma='' postag='' relation='nil' head=''/>
@@ -109,7 +109,7 @@
     <word id='18' form='οἶδα' lemma='' postag='' relation='nil' head=''/>
     <word id='19' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='5' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='5' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='πρὸ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='τῶν' lemma='' postag='' relation='nil' head=''/>
@@ -135,7 +135,7 @@
     <word id='23' form='φεύξομαι' lemma='' postag='' relation='nil' head=''/>
     <word id='24' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='6' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='6' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ὥστε' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='οὐδʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='εἴ' lemma='' postag='' relation='nil' head=''/>
@@ -196,7 +196,7 @@
     <word id='58' form='εἴποιτε' lemma='' postag='' relation='nil' head=''/>
     <word id='59' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='7' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='7' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='“ὦ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='Σώκρατες' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -225,7 +225,7 @@
     <word id='26' form='φιλοσοφεῖν' lemma='' postag='' relation='nil' head=''/>
     <word id='27' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='8' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='8' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐὰν' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἁλῷς' lemma='' postag='' relation='nil' head=''/>
@@ -352,7 +352,7 @@
     <word id='124' form=';' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
     <word id='125' form='”' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='9' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='9' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ἐάν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='τις' lemma='' postag='' relation='nil' head=''/>
@@ -404,7 +404,7 @@
     <word id='49' form='πλείονος' lemma='' postag='' relation='nil' head=''/>
     <word id='50' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='10' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='10' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='νεωτέρῳ' lemma='' postag='' relation='nil' head=''/>
@@ -432,7 +432,7 @@
     <word id='25' form='γένει' lemma='' postag='' relation='nil' head=''/>
     <word id='26' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='11' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='11' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='κελεύει' lemma='' postag='' relation='nil' head=''/>
@@ -462,7 +462,7 @@
     <word id='27' form='ὑπηρεσίαν' lemma='' postag='' relation='nil' head=''/>
     <word id='28' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='12' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='12' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='οὐδὲν' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἄλλο' lemma='' postag='' relation='nil' head=''/>
@@ -521,7 +521,7 @@
     <word id='56' form='.' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
     <word id='57' form='”' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='13' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='13' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='εἰ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='μὲν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='οὖν' lemma='' postag='' relation='nil' head=''/>
@@ -537,7 +537,7 @@
     <word id='13' form='βλαβερά' lemma='' postag='' relation='nil' head=''/>
     <word id='14' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='14' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='14' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='εἰ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δέ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='τίς' lemma='' postag='' relation='nil' head=''/>
@@ -552,7 +552,7 @@
     <word id='12' form='λέγει' lemma='' postag='' relation='nil' head=''/>
     <word id='13' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='15' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='15' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='πρὸς' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -592,7 +592,7 @@
     <word id='37' form='.' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
     <word id='38' form='”' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='16' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='16' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='μὴ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='θορυβεῖτε' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -617,7 +617,7 @@
     <word id='22' form='ἀκούειν' lemma='' postag='' relation='nil' head=''/>
     <word id='23' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='17' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='17' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γάρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -629,7 +629,7 @@
     <word id='9' form='ἀκούοντες' lemma='' postag='' relation='nil' head=''/>
     <word id='10' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='18' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='18' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='μέλλω' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='οὖν' lemma='' postag='' relation='nil' head=''/>
@@ -644,14 +644,14 @@
     <word id='12' form='βοήσεσθε' lemma='' postag='' relation='nil' head=''/>
     <word id='13' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='19' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='19' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἀλλὰ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='μηδαμῶς' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ποιεῖτε' lemma='' postag='' relation='nil' head=''/>
     <word id='4' form='τοῦτο' lemma='' postag='' relation='nil' head=''/>
     <word id='5' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='20' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='20' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='εὖ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἴστε' lemma='' postag='' relation='nil' head=''/>
@@ -674,7 +674,7 @@
     <word id='20' form='αὐτούς' lemma='' postag='' relation='nil' head=''/>
     <word id='21' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='21' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='21' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐμὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='μὲν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
@@ -701,7 +701,7 @@
     <word id='24' form='βλάπτεσθαι' lemma='' postag='' relation='nil' head=''/>
     <word id='25' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='22' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='22' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἀποκτείνειε' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='μεντἂν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἴσως' lemma='' postag='' relation='nil' head=''/>
@@ -711,7 +711,7 @@
     <word id='7' form='ἀτιμώσειεν' lemma='' postag='' relation='nil' head=''/>
     <word id='8' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='23' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='23' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἀλλὰ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='οὗτος' lemma='' postag='' relation='nil' head=''/>
@@ -745,7 +745,7 @@
     <word id='31' form='ἀποκτεινύναι' lemma='' postag='' relation='nil' head=''/>
     <word id='32' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='24' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='24' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='νῦν' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -782,7 +782,7 @@
     <word id='34' form='καταψηφισάμενοι' lemma='' postag='' relation='nil' head=''/>
     <word id='35' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='25' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='25' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐὰν' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γάρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='με' lemma='' postag='' relation='nil' head=''/>
@@ -852,7 +852,7 @@
     <word id='67' form='προσκαθίζων' lemma='' postag='' relation='nil' head=''/>
     <word id='68' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='26' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='26' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='τοιοῦτος' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἄλλος' lemma='' postag='' relation='nil' head=''/>
@@ -873,7 +873,7 @@
     <word id='18' form='μου' lemma='' postag='' relation='nil' head=''/>
     <word id='19' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='27' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='27' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ὑμεῖς' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἴσως' lemma='' postag='' relation='nil' head=''/>
@@ -917,7 +917,7 @@
     <word id='41' form='ὑμῶν' lemma='' postag='' relation='nil' head=''/>
     <word id='42' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='28' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='28' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ὅτι' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
@@ -937,7 +937,7 @@
     <word id='17' form='κατανοήσαιτε' lemma='' postag='' relation='nil' head=''/>
     <word id='18' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='29' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='29' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='οὐ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἀνθρωπίνῳ' lemma='' postag='' relation='nil' head=''/>
@@ -977,7 +977,7 @@
     <word id='37' form='ἀρετῆς' lemma='' postag='' relation='nil' head=''/>
     <word id='38' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='30' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='30' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='εἰ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='μέν' lemma='' postag='' relation='nil' head=''/>
@@ -997,7 +997,7 @@
     <word id='17' form='λόγον' lemma='' postag='' relation='nil' head=''/>
     <word id='18' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='31' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='31' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='νῦν' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ὁρᾶτε' lemma='' postag='' relation='nil' head=''/>
@@ -1034,7 +1034,7 @@
     <word id='34' form='ᾔτησα' lemma='' postag='' relation='nil' head=''/>
     <word id='35' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='32' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='32' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἱκανὸν' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γάρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -1052,7 +1052,7 @@
     <word id='15' form='πενίαν' lemma='' postag='' relation='nil' head=''/>
     <word id='16' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='33' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='33' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἴσως' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ἂν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='οὖν' lemma='' postag='' relation='nil' head=''/>
@@ -1086,7 +1086,7 @@
     <word id='31' form='πόλει' lemma='' postag='' relation='nil' head=''/>
     <word id='32' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='34' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='34' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='τούτου' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='αἴτιόν' lemma='' postag='' relation='nil' head=''/>
@@ -1119,7 +1119,7 @@
     <word id='30' form='ἐγράψατο' lemma='' postag='' relation='nil' head=''/>
     <word id='31' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='35' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='35' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐμοὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='τοῦτʼ' lemma='' postag='' relation='nil' head=''/>
@@ -1150,7 +1150,7 @@
     <word id='28' form='οὔποτε' lemma='' postag='' relation='nil' head=''/>
     <word id='29' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='36' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='36' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='τοῦτʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ἔστιν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ὅ' lemma='' postag='' relation='nil' head=''/>
@@ -1168,7 +1168,7 @@
     <word id='15' form='ἐναντιοῦσθαι' lemma='' postag='' relation='nil' head=''/>
     <word id='16' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='37' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='37' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='εὖ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἴστε' lemma='' postag='' relation='nil' head=''/>
@@ -1200,7 +1200,7 @@
     <word id='29' form='ἐμαυτόν' lemma='' postag='' relation='nil' head=''/>
     <word id='30' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='38' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='38' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καί' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='μοι' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='μὴ' lemma='' postag='' relation='nil' head=''/>
@@ -1210,7 +1210,7 @@
     <word id='7' form='ἀληθῆ' lemma='' postag='' relation='nil' head=''/>
     <word id='8' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='39' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='39' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='οὐ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἔστιν' lemma='' postag='' relation='nil' head=''/>
@@ -1262,7 +1262,7 @@
     <word id='49' form='δημοσιεύειν' lemma='' postag='' relation='nil' head=''/>
     <word id='50' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='40' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='40' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='μεγάλα' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἔγωγε' lemma='' postag='' relation='nil' head=''/>
@@ -1281,7 +1281,7 @@
     <word id='16' form='ἔργα' lemma='' postag='' relation='nil' head=''/>
     <word id='17' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='41' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='41' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἀκούσατε' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δή' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='μοι' lemma='' postag='' relation='nil' head=''/>
@@ -1310,7 +1310,7 @@
     <word id='26' form='ἀπολοίμην' lemma='' postag='' relation='nil' head=''/>
     <word id='27' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='42' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='42' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐρῶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ὑμῖν' lemma='' postag='' relation='nil' head=''/>
@@ -1323,7 +1323,7 @@
     <word id='10' form='δέ' lemma='' postag='' relation='nil' head=''/>
     <word id='11' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='43' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='43' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γάρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
@@ -1345,7 +1345,7 @@
     <word id='19' form='δέ' lemma='' postag='' relation='nil' head=''/>
     <word id='20' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='44' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='44' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ἔτυχεν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἡμῶν' lemma='' postag='' relation='nil' head=''/>
@@ -1381,7 +1381,7 @@
     <word id='33' form='ἔδοξεν' lemma='' postag='' relation='nil' head=''/>
     <word id='34' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='45' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='45' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='τότʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='μόνος' lemma='' postag='' relation='nil' head=''/>
@@ -1399,7 +1399,7 @@
     <word id='15' form='ἐψηφισάμην' lemma='' postag='' relation='nil' head=''/>
     <word id='16' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='46' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='46' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ἑτοίμων' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ὄντων' lemma='' postag='' relation='nil' head=''/>
@@ -1441,7 +1441,7 @@
     <word id='39' form='θάνατον' lemma='' postag='' relation='nil' head=''/>
     <word id='40' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='47' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='47' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ταῦτα' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='μὲν' lemma='' postag='' relation='nil' head=''/>
@@ -1452,7 +1452,7 @@
     <word id='8' form='πόλεως' lemma='' postag='' relation='nil' head=''/>
     <word id='9' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='48' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='48' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐπειδὴ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ὀλιγαρχία' lemma='' postag='' relation='nil' head=''/>
@@ -1494,7 +1494,7 @@
     <word id='39' form='αἰτιῶν' lemma='' postag='' relation='nil' head=''/>
     <word id='40' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='49' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='49' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='τότε' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='μέντοι' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἐγὼ' lemma='' postag='' relation='nil' head=''/>
@@ -1534,7 +1534,7 @@
     <word id='37' form='μέλει' lemma='' postag='' relation='nil' head=''/>
     <word id='38' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='50' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='50' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἐμὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἐκείνη' lemma='' postag='' relation='nil' head=''/>
@@ -1576,7 +1576,7 @@
     <word id='39' form='οἴκαδε' lemma='' postag='' relation='nil' head=''/>
     <word id='40' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='51' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='51' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ἴσως' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἂν' lemma='' postag='' relation='nil' head=''/>
@@ -1593,7 +1593,7 @@
     <word id='14' form='κατελύθη' lemma='' postag='' relation='nil' head=''/>
     <word id='15' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='52' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='52' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='καὶ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='τούτων' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ὑμῖν' lemma='' postag='' relation='nil' head=''/>
@@ -1602,7 +1602,7 @@
     <word id='6' form='μάρτυρες' lemma='' postag='' relation='nil' head=''/>
     <word id='7' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='53' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='53' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='ἆρʼ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='οὖν' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='ἄν' lemma='' postag='' relation='nil' head=''/>
@@ -1633,7 +1633,7 @@
     <word id='28' form='ἐποιούμην' lemma='' postag='' relation='nil' head=''/>
     <word id='29' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='54' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='54' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='πολλοῦ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='γε' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='δεῖ' lemma='' postag='' relation='nil' head=''/>
@@ -1643,7 +1643,7 @@
     <word id='7' form='Ἀθηναῖοι' lemma='' postag='' relation='nil' head=''/>
     <word id='8' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='55' document_id='urn:cts:greekLit:tlg0059.tlg002.perseus-grc1' subdoc='29b-32e' span=''>
+  <sentence id='55' document_id='https://github.com/Drewlatimer/Treebank-Templates/blob/master/29b-32e.xml' subdoc='29b-32e' span=''>
     <word id='1' form='οὐ' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='-δὲ' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='γὰρ' lemma='' postag='' relation='nil' head=''/>
