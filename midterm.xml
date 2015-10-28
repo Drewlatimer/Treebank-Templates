@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt-misc-grc"
+          version="1.5">
+   <date>2015-10-28 14:59:38 +0000</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>Drew Latimer</short>
+      <name>Drew Latimer</name>
+      <address>lupy314@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Drew%20Latimer</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="οὐ" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="γὰρ" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="δήπου" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="σοῦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="5" form="γε" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="οὐδὲν" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="τῶν" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="ἄλλων" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="περιττότερον" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="πραγματευομένου" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="ἔπειτα" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="τοσαύτη" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="φήμη" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="τε" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="καὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="λόγος" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form="γέγονεν" lemma="" postag="" relation="nil" head=""/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="19" form="εἰ" lemma="" postag="" relation="nil" head=""/>
+      <word id="20" form="μή" lemma="" postag="" relation="nil" head=""/>
+      <word id="21" form="τι" lemma="" postag="" relation="nil" head=""/>
+      <word id="22" form="ἔπραττες" lemma="" postag="" relation="nil" head=""/>
+      <word id="23" form="ἀλλοῖον" lemma="" postag="" relation="nil" head=""/>
+      <word id="24" form="ἢ" lemma="" postag="" relation="nil" head=""/>
+      <word id="25" form="οἱ" lemma="" postag="" relation="nil" head=""/>
+      <word id="26" form="πολλοί" lemma="" postag="" relation="nil" head=""/>
+      <word id="27" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="" subdoc="" span="">
+      <word id="1" form="λέγε" lemma="" postag="" relation="nil" head=""/>
+      <word id="2" form="οὖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="3" form="ἡμῖν" lemma="" postag="" relation="nil" head=""/>
+      <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="τί" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="ἐστιν" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="ἵνα" lemma="" postag="" relation="nil" head=""/>
+      <word id="9" form="μὴ" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="ἡμεῖς" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="περὶ" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="σοῦ" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="αὐτοσχεδιάζωμεν" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
